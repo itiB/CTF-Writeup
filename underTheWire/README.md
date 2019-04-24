@@ -2,9 +2,9 @@
 
 <http://underthewire.tech/wargames.htm>
 
-- Century0->1
-- Century1->2
-- Century2->3
+- [Century0->1](/writeup/century0_1.md)
+- [Century1->2](/writeup/century1_2.md)
+- [Century2->3](/writeup/century2_3.md)
 - Century3->4
 - Century4->5
 - Century5->6
