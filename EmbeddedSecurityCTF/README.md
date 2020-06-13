@@ -12,5 +12,6 @@
 - `Reykjavik` Solved
 - `Whitehorse` Solved
 - `Montevideo` Solved
-- `Johannesburg` In Progress
+- `Johannesburg` Solved
+- `Santa Cruz` In Progress
 - `Addis Ababa`
