@@ -13,5 +13,5 @@
 - `Whitehorse` Solved
 - `Montevideo` Solved
 - `Johannesburg` Solved
-- `Santa Cruz` In Progress
+- `Santa Cruz` Solved 
 - `Addis Ababa`
